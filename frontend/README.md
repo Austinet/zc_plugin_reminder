@@ -15,7 +15,7 @@ This project uses [create-react-app](https://reactjs.org/docs/create-a-new-react
 100% test coverage is the goal with shallow Enzyme assertions as minimum for components.\
 Write tests for your components according to [Testing](#Testing)
 
-## Setup
+## Setup Structure
 
 `clone` this repo on your pc, by typing out this command on your terminal.
 
